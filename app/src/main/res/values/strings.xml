@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notification Controller</string>
+
+    <string name="status_checking">Checking status…</string>
+    <string name="status_active">Notification listener is active.</string>
+    <string name="status_not_granted">Notification access is NOT granted. Tap the button below to enable it.</string>
+    <string name="grant_access">Grant Notification Access</string>
+
+    <string name="alert_rules_header">Alert Rules</string>
+    <string name="spinner_description">Select alert rule to configure</string>
+
+    <string name="switch_enabled_default">Enabled</string>
+    <string name="switch_sound_default">Play sound (alarm stream)</string>
+    <string name="switch_vibrate_default">Vibrate</string>
+    <string name="switch_schedule_default">Enable schedule</string>
+
+    <string name="switch_enabled_label">Enable %s</string>
+    <string name="switch_sound_label">Play sound for %s</string>
+    <string name="switch_vibrate_label">Vibrate for %s</string>
+    <string name="switch_schedule_label">Schedule %s</string>
+
+    <string name="schedule_header">Schedule</string>
+    <string name="schedule_description">When enabled, sound and vibration only trigger during this time window.</string>
+    <string name="schedule_from">From </string>
+    <string name="schedule_to">\u0020 to \u0020</string>
+    <string name="start_time_description">Schedule start time, tap to change</string>
+    <string name="end_time_description">Schedule end time, tap to change</string>
+</resources>
