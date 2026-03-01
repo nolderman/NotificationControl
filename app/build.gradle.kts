@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.personseenalert"
+    namespace = "com.notificationcontrol"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.personseenalert"
+        applicationId = "com.notificationcontrol"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

@@ -1,4 +1,4 @@
-package com.personseenalert
+package com.notificationcontrol
 
 import android.app.Notification
 import android.media.AudioAttributes

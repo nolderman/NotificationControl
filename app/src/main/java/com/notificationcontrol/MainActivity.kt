@@ -1,4 +1,4 @@
-package com.personseenalert
+package com.notificationcontrol
 
 import android.app.TimePickerDialog
 import android.content.ComponentName

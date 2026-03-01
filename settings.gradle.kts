@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PersonSeenAlert"
+rootProject.name = "NotificationController"
 include(":app")

@@ -1,4 +1,4 @@
-package com.personseenalert
+package com.notificationcontrol
 
 // Not a data class: Regex doesn't implement equals/hashCode, so we use id-based equality
 class AlertRule(
