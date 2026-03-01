@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "NotificationController"
+rootProject.name = "NotificationControl"
 include(":app")
